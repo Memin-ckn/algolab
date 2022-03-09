@@ -17,7 +17,7 @@ double kombinasyon(int, int);
 
 int main(int argc, char const *argv[])
 {
-    // sekiller();
+    sekiller();
     islem();
     return 0;
 }
